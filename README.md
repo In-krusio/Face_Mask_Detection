@@ -1,3 +1,5 @@
+![images](https://github.com/In-krusio/Face_Mask_Detection/assets/96350795/c5058b7f-14ea-4037-b7ed-4ac72a50cfc5)
+<h1>Face Mask Detection</h1>
 Face mask detection uses machine learning and computer vision to determine if individuals are wearing face masks, which is crucial for enforcing public health measures during the COVID-19 pandemic. The process involves several steps:
 
 1. **Image Acquisition**: Capturing images or video frames from cameras.
